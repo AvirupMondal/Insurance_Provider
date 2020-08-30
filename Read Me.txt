@@ -1,0 +1,9 @@
+Steps To Run The Website on Local Server:
+
+1. Download the zip file and extract it and Copy it.
+2. Go to you xampp folder and inside htdocs folder paste the extracted folder
+3. open your database create a databse named 'mediclaim'
+4. Then import the sql file(provided inside the folder)
+5. Then run the website successfully
+
+Thank you for visiting my Project
